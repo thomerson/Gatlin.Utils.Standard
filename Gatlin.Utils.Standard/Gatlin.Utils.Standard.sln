@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31624.102
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Gatlin.Utils.Standard.Log", "Gatlin.Utils.Standard.Log\Gatlin.Utils.Standard.Log.csproj", "{AD6F61F3-8D88-4782-B859-A9571BC7C5B7}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{AD6F61F3-8D88-4782-B859-A9571BC7C5B7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AD6F61F3-8D88-4782-B859-A9571BC7C5B7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AD6F61F3-8D88-4782-B859-A9571BC7C5B7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AD6F61F3-8D88-4782-B859-A9571BC7C5B7}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {96AC5DAB-B165-486B-A525-601F2E085A0F}
+	EndGlobalSection
+EndGlobal
